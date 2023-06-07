@@ -13,11 +13,11 @@ pip install termcolor
 ```
 
 ## API de Have i Peen Pwned
-![Descripción de la imagen](Pwned.png)
+![Descripción de la imagen](/img/Pwned.png)
 
 ## Contraseñas 
-![Descripción de la imagen](password.png)
+![Descripción de la imagen](/img/password.png)
 
 ## Resultados
-![Descripción de la imagen](resultado.png)
+![Descripción de la imagen](/img/resultado.png)
 
