@@ -39,7 +39,7 @@ def comparacion(separado, busqueda, texto):
 
 def main():
     """Función principal"""
-    with open("password.txt") as archivo:
+    with open("/src/password.txt") as archivo:
         for linea in archivo:
             password = linea.strip()
             generar_hash_sha1(password)
